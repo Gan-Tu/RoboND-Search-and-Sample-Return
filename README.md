@@ -23,9 +23,6 @@ In this project, I will be writing code to autonomously map a simulated environm
 
 This project is inspired by the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html)
 
-## Get the Code 
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/robotics/search-and-sample-return/p1-search-and-sample-return.zip)
-
 ## Watch the Autonomous Mode Video
 You can watch a demo run of Rover navigating the simulated environment and searching for rocks autonomously [here](https://youtu.be/IRTw2f-onKQ).
 
